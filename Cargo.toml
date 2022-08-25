@@ -1,0 +1,6 @@
+[package]
+name = "fishoc"
+version = "0.1.0"
+edition = "2021"
+authors = ["datawater <datawater1@gmail.com>"]
+license-file = "LICENSE"
